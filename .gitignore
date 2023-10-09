@@ -2,3 +2,5 @@
 models/*.bin
 models/*.gguf
 **/.todo
+temp_auto_push.bat
+temp_interactive_push.bat
